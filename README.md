@@ -2,7 +2,10 @@
 
 This repository contains the final project for the NLP course. The project explores various Natural Language Processing techniques, including tokenization, lemmatization, Tf-IDF, Word2Vec, and more.
 
-There are 3 main code files for this project, we have decided to seperate them for ease of reading, Data_Collection.ipynb - this contains the code for collecting data from Instagram posts, NLP_final_project.ipynb - the courses main tasks which is mainly different NLP techniques, and finally Sentimental Analysis.ipynb - in this part we've done some extra work analyzing the sentimental analysis of different news outlets regarding to 3 subjects and comparing between them.
+There are 3 main code files for this project, we have decided to seperate them for ease of reading:
+- Data_Collection.ipynb - this contains the code for collecting data from Instagram posts
+- NLP_final_project.ipynb - the courses main tasks which is mainly different NLP techniques
+- Sentimental Analysis.ipynb - in this part we've done some extra work analyzing the sentimental analysis of different news outlets regarding to 3 subjects and comparing between them.
 
 The other files are mainly data files that's been cleaned and tokenized for ease of use by the program.
 
